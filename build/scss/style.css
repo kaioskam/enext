@@ -1,0 +1,32 @@
+
+body {
+    padding-top: 70px;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+.border-2 {
+	border: 2px solid #333;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.mt-12 {
+	margin-top: 12px;
+}
+.ml-10 {
+	margin-left: 10px;
+}
+.logo-responsive {
+	float: none;
+	margin: 0 auto;
+	text-align: center;
+}
